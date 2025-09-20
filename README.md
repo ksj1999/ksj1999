@@ -60,8 +60,6 @@
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksj1999&layout=compact&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ksj1999&show_icons=true&theme=tokyonight)
-
 </div>
 
 ---
